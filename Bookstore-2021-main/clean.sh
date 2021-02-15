@@ -1,0 +1,9 @@
+rm book
+rm user
+rm refer_isbn
+rm refer_id
+rm refer_name
+rm refer_author
+rm refer_keyword
+rm financial_log
+sleep 0.5s

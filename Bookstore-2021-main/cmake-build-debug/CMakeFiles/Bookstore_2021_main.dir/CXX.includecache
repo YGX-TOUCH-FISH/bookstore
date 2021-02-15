@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Bookstore-2021-main/src/user.cpp
+user.h
+D:/Bookstore-2021-main/src/user.h
+
+D:/Bookstore-2021-main/src/user.h
+iostream
+-
+string
+-
+cstring
+-
+fstream
+-
+

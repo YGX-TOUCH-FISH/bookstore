@@ -1,0 +1,3 @@
+D:/Bookstore-2021-main/cmake-build-debug/CMakeFiles/code.dir
+D:/Bookstore-2021-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Bookstore-2021-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
